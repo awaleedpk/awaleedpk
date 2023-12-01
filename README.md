@@ -16,6 +16,6 @@ I thrive at the intersection of data and discovery, wielding algorithms and stat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awaleedpk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=awaleedpk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=awaleedpk&label=Profile%20Views&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
