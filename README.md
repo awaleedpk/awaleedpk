@@ -31,7 +31,7 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 - [Forecasting Time Series Data with SARIMAX + SARIMA Hyperparameter Tuning
 ](https://github.com/awaleedpk/Forecasting-Time-Series-Data-with-SARIMAX-SARIMA-Hyperparameter-Tuning)
 - [YouTube Video Link Extractor](https://github.com/awaleedpk/Extract-Youtube-Video-Links)
-
+- [Multi Language Digits Converter](https://github.com/awaleedpk/Multi_Language_Digits_Converter)
 
 
 # Kaggle Notebook
@@ -43,7 +43,7 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 - [Maple Syrup Production Analysis](https://www.kaggle.com/code/ahmadwaleed1/maple-syrup-production-analysis)
 - [British Airways Booking Analysis + Visualization](https://www.kaggle.com/code/ahmadwaleed1/british-airways-booking-analysis-visualization)
 
-
+# Microsoft Power BI
 
 
 ## 🌐 Socials:
