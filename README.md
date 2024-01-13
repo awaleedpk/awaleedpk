@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ahmad Waleed</h1>
-<h3 align="center">Fueling innovation through the power of data, I decode patterns, revealing the roadmap for informed decisions and strategic advancements</h3>
+
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />&nbsp;
+        Hi 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="50" />,
+        I'm Ahmad Waleed&nbsp;
+    </h1>
+    <h2 align="center">>Fueling innovation through the power of data, I decode patterns, revealing the roadmap for informed decisions and strategic advancements 👨‍💻</h2>
+</div>
+
+
 
 I engineer insights at the crossroads of data and exploration, wielding algorithms and statistical models to unearth revelations that fuel informed decisions. As a devoted data scientist, I dive deep into unraveling patterns within the labyrinth of raw information, shaping narratives that steer impactful solutions.
 
@@ -46,8 +56,20 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 # Microsoft Power BI
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-waleed-b4ba98103/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@awaleedpk) 
+## Follow US:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@awaleedpk) 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/AWaleedpk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisdeveloper" height="50" width="50" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ahmad-waleed-b4ba98103" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baivab-sarkar-8b2a43235" height="50" width="50" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/awaleedpk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_baivab" height="50" width="50" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
