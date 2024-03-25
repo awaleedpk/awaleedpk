@@ -56,9 +56,9 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 # Microsoft Power BI
 - [Cost Analysis of US-Based Restaurant Chain](https://app.powerbi.com/links/nETOZqaQlO?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
 - [Pizza Restaurant Sales Report](https://app.powerbi.com/links/ZIU-45SmwM?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare&bookmarkGuid=1ee5fe03-8809-45d8-be0d-e309e8100d6b)
-- 
-- 
-https://app.powerbi.com/links/ZIU-45SmwM?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare&bookmarkGuid=1ee5fe03-8809-45d8-be0d-e309e8100d6b
+- [Multinational firm Finaical Dashboard 2018-2020](https://app.powerbi.com/links/KV4ip-p8gR?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+- [Demo Multinational Firm Balance Sheet and Income Statement Analysis 2017-2019](https://app.powerbi.com/links/tU-f0jKEUR?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+- [Investor Financial Dashboard with LSTM and FB prophet Preditive Model](https://app.powerbi.com/links/llbrBts-6w?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
 
 ## Follow US:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@awaleedpk) 
