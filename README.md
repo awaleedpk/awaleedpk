@@ -34,31 +34,53 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 
 # Projects
 
-- [Stock Market Dashboard with Techincal Analysis, News Sentimental Analysis, Annomalies & Prediction](https://github.com/awaleedpk/Stock_Market_Dashboard_with_Techincal_Analysis-Annomalies-Prediction)
-- [Diabetes Prediction App with Help Chat Bot and BMI Calculator](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator)
-- [Ensemble-based Rainfall and Temperature Forecasting](https://github.com/awaleedpk/Ensemble-based_Rainfall_and_Temperature_Forecasting)
-- [NutriChat: Streamlit-Powered LLM Food Nutrition Chatbot](https://github.com/awaleedpk/Smoothie-Mixer-App-Streamlit)
+- [Stock Market Dashboard with Techincal Analysis, News Sentimental Analysis, Annomalies & Prediction](https://github.com/awaleedpk/Stock_Market_Dashboard_with_Techincal_Analysis-Annomalies-Prediction) This Python-based dashboard integrates technical indicators, sentiment analysis from financial news, anomaly detection, and market predictions to offer a holistic view of stock market trends.
+- [Diabetes Prediction App with Help Chat Bot and BMI Calculator](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator) A Python application that predicts diabetes risk using health data, features a chatbot for assistance, and includes a BMI calculator for additional health insights.
+- [Ensemble-based Rainfall and Temperature Forecasting](https://github.com/awaleedpk/Ensemble-based_Rainfall_and_Temperature_Forecasting) Utilizes ensemble methods in Python to combine multiple forecasting models for more accurate predictions of rainfall and temperature, enhancing weather forecasting reliability.
+- [NutriChat: Streamlit-Powered LLM Food Nutrition Chatbot](https://github.com/awaleedpk/Smoothie-Mixer-App-Streamlit) A chatbot developed with Python and Streamlit, utilizing large language models (LLMs) to provide instant nutritional information and advice on various foods.
 - [Forecasting Time Series Data with SARIMAX + SARIMA Hyperparameter Tuning
-](https://github.com/awaleedpk/Forecasting-Time-Series-Data-with-SARIMAX-SARIMA-Hyperparameter-Tuning)
-- [YouTube Video Link Extractor](https://github.com/awaleedpk/Extract-Youtube-Video-Links)
-- [Multi Language Digits Converter](https://github.com/awaleedpk/Multi_Language_Digits_Converter)
+](https://github.com/awaleedpk/Forecasting-Time-Series-Data-with-SARIMAX-SARIMA-Hyperparameter-Tuning) A Python project focusing on time series forecasting using the SARIMAX model, with an emphasis on optimizing SARIMA hyperparameters for improved accuracy.
+- [YouTube Video Link Extractor](https://github.com/awaleedpk/Extract-Youtube-Video-Links) A Python tool designed to efficiently extract and organize video links from YouTube, facilitating easier access to content and data analysis.
+- [Multi Language Digits Converter](https://github.com/awaleedpk/Multi_Language_Digits_Converter) This Python application offers the functionality to convert digits between multiple languages, enhancing usability for international users and applications.
+
+
 
 
 # Kaggle Notebook
 - [Netflix Stock | EDA | Technical | Forecasting](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Netflix%20Stock%20Price%20%20EDA%20%20Technical%20Analysis%20%20Forcasting/Netflix_Stock_Price___EDA___Technical_Analysis___Forcasting.ipynb)
-- [United Nations Refuge | Deep Analysis](https://www.kaggle.com/code/ahmadwaleed1/united-nations-refuge-deep-analysis)
-- [Nuclear Plant Incidents | Deep Analysis](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Nuclear%20Plant%20Incidents/Nuclear_Plant_Incidents___Deep_Analysis.ipynb)
-- [Cricket World Cup | EDA | Insight](https://www.kaggle.com/code/ahmadwaleed1/cricket-world-cup-eda-insight)
-- [Natural Gas Prices Prediction using FB prophet](https://www.kaggle.com/code/ahmadwaleed1/natural-gas-prices-prediction-using-fb-prophet)
-- [Maple Syrup Production Analysis](https://www.kaggle.com/code/ahmadwaleed1/maple-syrup-production-analysis)
-- [British Airways Booking Analysis + Visualization](https://www.kaggle.com/code/ahmadwaleed1/british-airways-booking-analysis-visualization)
+This Kaggle notebook provides an exhaustive Exploratory Data Analysis (EDA) of Netflix's stock, incorporates technical analysis, and employs forecasting techniques to predict future stock movements.<br>
+ <img src="https://imgur.com/4jmAe1E.png" width="200px" />  <img src="https://imgur.com/uXh8iDE.png" width="200px" /><img src="https://imgur.com/ob1FFJl.png" width="200px" />
+
+ 
+- [United Nations Refuge | Deep Analysis](https://www.kaggle.com/code/ahmadwaleed1/united-nations-refuge-deep-analysis) A detailed analysis focusing on United Nations refugee data, offering insights into global refugee trends, origins, and the impact on host countries.<br>
+
+ <img src="https://imgur.com/gRd7JYp.png" width="200px" />  <img src="https://imgur.com/QWRk97Y.png" width="200px" /><img src="https://imgur.com/cs6y7My.png" width="200px" />
+
+- [Nuclear Plant Incidents | Deep Analysis](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Nuclear%20Plant%20Incidents/Nuclear_Plant_Incidents___Deep_Analysis.ipynb) An in-depth investigation into incidents at nuclear plants worldwide, analyzing their causes, consequences, and the measures taken to prevent future occurrences.<br>
+
+- [Cricket World Cup | EDA | Insight](https://www.kaggle.com/code/ahmadwaleed1/cricket-world-cup-eda-insight) Offers a comprehensive exploratory data analysis of Cricket World Cup matches, providing insights into team performances, player statistics, and trends that have shaped the tournament's history. <br>
+
+- [Natural Gas Prices Prediction using FB prophet](https://www.kaggle.com/code/ahmadwaleed1/natural-gas-prices-prediction-using-fb-prophet) Utilizes Facebook's Prophet forecasting tool to predict future natural gas prices based on historical price data, offering insights into energy market trends.<br>
+- 
+- [Maple Syrup Production Analysis](https://www.kaggle.com/code/ahmadwaleed1/maple-syrup-production-analysis) Analyzes data related to maple syrup production, including trends over time, production volumes by region, and factors affecting yield, to provide a comprehensive overview of the industry.<br>
+- 
+- 
+- [British Airways Booking Analysis + Visualization](https://www.kaggle.com/code/ahmadwaleed1/british-airways-booking-analysis-visualization) This notebook dives into British Airways booking data, presenting an analysis complemented by visualizations to uncover patterns in flight bookings, customer preferences, and seasonal trends.<br>
+- 
 
 # Microsoft Power BI
 - [Cost Analysis of US-Based Restaurant Chain](https://app.powerbi.com/links/nETOZqaQlO?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+An analytical project leveraging Power BI to dissect cost structures and identify optimization opportunities for a US-based restaurant chain.
 - [Pizza Restaurant Sales Report](https://app.powerbi.com/links/ZIU-45SmwM?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare&bookmarkGuid=1ee5fe03-8809-45d8-be0d-e309e8100d6b)
-- [Multinational firm Finaical Dashboard 2018-2020](https://app.powerbi.com/links/KV4ip-p8gR?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+Power BI report providing in-depth sales analysis and trends for a pizza restaurant, enabling data-driven decision-making.
+- [Multinational Firm Financial Dashboard 2018-2020](https://app.powerbi.com/links/KV4ip-p8gR?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+A comprehensive financial dashboard created in Power BI, offering insights into the financial health and performance of a multinational firm over a three-year period.
 - [Demo Multinational Firm Balance Sheet and Income Statement Analysis 2017-2019](https://app.powerbi.com/links/tU-f0jKEUR?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+A demonstrative Power BI project analyzing the balance sheet and income statement of a multinational firm, highlighting key financial trends and ratios from 2017 to 2019.
 - [Investor Financial Dashboard with LSTM and FB prophet Preditive Model](https://app.powerbi.com/links/llbrBts-6w?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
+An advanced Power BI dashboard incorporating LSTM and Facebook Prophet models to provide investors with predictive financial insights and trend forecasts.
+
+
 
 ## Follow US:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@awaleedpk) 
