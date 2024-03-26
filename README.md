@@ -53,20 +53,13 @@ This Kaggle notebook provides an exhaustive Exploratory Data Analysis (EDA) of N
 
  
 - [United Nations Refuge | Deep Analysis](https://www.kaggle.com/code/ahmadwaleed1/united-nations-refuge-deep-analysis) A detailed analysis focusing on United Nations refugee data, offering insights into global refugee trends, origins, and the impact on host countries.<br>
-
  <img src="https://imgur.com/gRd7JYp.png" width="200px" />  <img src="https://imgur.com/QWRk97Y.png" width="200px" /><img src="https://imgur.com/cs6y7My.png" width="200px" />
-
 - [Nuclear Plant Incidents | Deep Analysis](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Nuclear%20Plant%20Incidents/Nuclear_Plant_Incidents___Deep_Analysis.ipynb) An in-depth investigation into incidents at nuclear plants worldwide, analyzing their causes, consequences, and the measures taken to prevent future occurrences.<br>
-
 - [Cricket World Cup | EDA | Insight](https://www.kaggle.com/code/ahmadwaleed1/cricket-world-cup-eda-insight) Offers a comprehensive exploratory data analysis of Cricket World Cup matches, providing insights into team performances, player statistics, and trends that have shaped the tournament's history. <br>
-
 - [Natural Gas Prices Prediction using FB prophet](https://www.kaggle.com/code/ahmadwaleed1/natural-gas-prices-prediction-using-fb-prophet) Utilizes Facebook's Prophet forecasting tool to predict future natural gas prices based on historical price data, offering insights into energy market trends.<br>
-- 
 - [Maple Syrup Production Analysis](https://www.kaggle.com/code/ahmadwaleed1/maple-syrup-production-analysis) Analyzes data related to maple syrup production, including trends over time, production volumes by region, and factors affecting yield, to provide a comprehensive overview of the industry.<br>
-- 
-- 
 - [British Airways Booking Analysis + Visualization](https://www.kaggle.com/code/ahmadwaleed1/british-airways-booking-analysis-visualization) This notebook dives into British Airways booking data, presenting an analysis complemented by visualizations to uncover patterns in flight bookings, customer preferences, and seasonal trends.<br>
-- 
+
 
 # Microsoft Power BI
 - [Cost Analysis of US-Based Restaurant Chain](https://app.powerbi.com/links/nETOZqaQlO?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
