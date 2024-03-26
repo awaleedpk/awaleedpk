@@ -49,17 +49,19 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 # Kaggle Notebook
 - [Netflix Stock | EDA | Technical | Forecasting](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Netflix%20Stock%20Price%20%20EDA%20%20Technical%20Analysis%20%20Forcasting/Netflix_Stock_Price___EDA___Technical_Analysis___Forcasting.ipynb)
 This Kaggle notebook provides an exhaustive Exploratory Data Analysis (EDA) of Netflix's stock, incorporates technical analysis, and employs forecasting techniques to predict future stock movements.<br>
- <img src="https://imgur.com/4jmAe1E.png" width="200px" />  <img src="https://imgur.com/uXh8iDE.png" width="200px" /><img src="https://imgur.com/ob1FFJl.png" width="200px" />
+ <img src="https://imgur.com/4jmAe1E.png" width="200px"  height="120px"  />  <img src="https://imgur.com/uXh8iDE.png" width="200px" height="120px" /><img src="https://imgur.com/ob1FFJl.png" width="200px"  height="120px"  />
 - [United Nations Refuge | Deep Analysis](https://www.kaggle.com/code/ahmadwaleed1/united-nations-refuge-deep-analysis) A detailed analysis focusing on United Nations refugee data, offering insights into global refugee trends, origins, and the impact on host countries.<br>
- <img src="https://imgur.com/gRd7JYp.png" width="200px" />  <img src="https://imgur.com/QWRk97Y.png" width="200px" /><img src="https://imgur.com/cs6y7My.png" width="200px" />
+ <img src="https://imgur.com/gRd7JYp.png" width="200px" height="120px"  />  <img src="https://imgur.com/QWRk97Y.png" width="200px" height="120px" /><img src="https://imgur.com/cs6y7My.png" width="200px" height="120px" />
 - [Nuclear Plant Incidents | Deep Analysis](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Nuclear%20Plant%20Incidents/Nuclear_Plant_Incidents___Deep_Analysis.ipynb) An in-depth investigation into incidents at nuclear plants worldwide, analyzing their causes, consequences, and the measures taken to prevent future occurrences.<br>
- <img src="https://imgur.com/C52Soff.png" width="200px" />  <img src="https://imgur.com/igssoxt.png" width="200px" /><img src="https://imgur.com/oeuSYzI.png" width="200px" />
+ <img src="https://imgur.com/C52Soff.png" width="200px" height="120px" />  <img src="https://imgur.com/igssoxt.png" width="200px" height="120px" /><img src="https://imgur.com/oeuSYzI.png" width="200px" height="120px" />
 - [Cricket World Cup | EDA | Insight](https://www.kaggle.com/code/ahmadwaleed1/cricket-world-cup-eda-insight) Offers a comprehensive exploratory data analysis of Cricket World Cup matches, providing insights into team performances, player statistics, and trends that have shaped the tournament's history. <br>
- <img src="https://imgur.com/fTwE0tj.png" width="200px" />  <img src="https://imgur.com/TP4IdOK.png" width="200px" /><img src="https://imgur.com/ZHZU2Sx.png" width="200px" />
+ <img src="https://imgur.com/fTwE0tj.png" width="200px" height="120px" />  <img src="https://imgur.com/TP4IdOK.png" width="200px" height="120px" /><img src="https://imgur.com/ZHZU2Sx.png" width="200px" height="120px" />
 - [Natural Gas Prices Prediction using FB prophet](https://www.kaggle.com/code/ahmadwaleed1/natural-gas-prices-prediction-using-fb-prophet) Utilizes Facebook's Prophet forecasting tool to predict future natural gas prices based on historical price data, offering insights into energy market trends.<br>
+ <img src="https://imgur.com/fxAtOdH.png" width="200px" height="120px" />  <img src="https://imgur.com/JWyaboj.png" width="200px" height="120px" /><img src="https://imgur.com/BnUWOD9.png" width="200px" height="120px" />
 - [Maple Syrup Production Analysis](https://www.kaggle.com/code/ahmadwaleed1/maple-syrup-production-analysis) Analyzes data related to maple syrup production, including trends over time, production volumes by region, and factors affecting yield, to provide a comprehensive overview of the industry.<br>
+ <img src="https://imgur.com/MWnMozM.png" width="200px" height="120px" />  <img src="https://imgur.com/kqYm2VG.png" width="200px" height="120px" /><img src="https://imgur.com/LhzbyEL.png" width="200px" height="120px" />
 - [British Airways Booking Analysis + Visualization](https://www.kaggle.com/code/ahmadwaleed1/british-airways-booking-analysis-visualization) This notebook dives into British Airways booking data, presenting an analysis complemented by visualizations to uncover patterns in flight bookings, customer preferences, and seasonal trends.<br>
-
+ <img src="https://imgur.com/JTMImbE.png" width="200px" height="120px" />  <img src="https://imgur.com/GK0uGj1.png" width="200px" height="120px" /><img src="https://imgur.com/L45DnNj.png" width="200px" height="120px" />
 
 # Microsoft Power BI
 - [Cost Analysis of US-Based Restaurant Chain](https://app.powerbi.com/links/nETOZqaQlO?ctid=0abd50b3-944f-4753-af22-93769bcaa878&pbi_source=linkShare)
