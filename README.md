@@ -34,7 +34,7 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 
 # Projects
 
-- [Stock Market Dashboard with Techincal Analysis, News Sentimental Analysis, Annomalies & Prediction](https://github.com/awaleedpk/Stock_Market_Dashboard_with_Techincal_Analysis-Annomalies-Prediction) This Python-based dashboard integrates technical indicators, sentiment analysis from financial news, anomaly detection, and market predictions to offer a holistic view of stock market trends.
+- [Stock Market Dashboard with Techincal Analysis, News Sentimental Analysis, Annomalies & Prediction](https://github.com/awaleedpk/Stock_Market_Dashboard_with_Techincal_Analysis-Annomalies-Prediction) This Python-based dashboard integrates <b>technical indicators, sentiment analysis</b> from financial news, <b>anomaly detection</b>, and <b>market predictions</b> to offer a holistic view of <b>stock market trends</b>.
 - [Diabetes Prediction App with Help Chat Bot and BMI Calculator](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator) A Python application that predicts diabetes risk using health data, features a chatbot for assistance, and includes a BMI calculator for additional health insights.
 - [Ensemble-based Rainfall and Temperature Forecasting](https://github.com/awaleedpk/Ensemble-based_Rainfall_and_Temperature_Forecasting) Utilizes ensemble methods in Python to combine multiple forecasting models for more accurate predictions of rainfall and temperature, enhancing weather forecasting reliability.
 - [NutriChat: Streamlit-Powered LLM Food Nutrition Chatbot](https://github.com/awaleedpk/Smoothie-Mixer-App-Streamlit) A chatbot developed with Python and Streamlit, utilizing large language models (LLMs) to provide instant nutritional information and advice on various foods.
@@ -51,7 +51,6 @@ Let's forge connections and collaborate on the enthralling journey of metamorpho
 This Kaggle notebook provides an exhaustive Exploratory Data Analysis (EDA) of Netflix's stock, incorporates technical analysis, and employs forecasting techniques to predict future stock movements.<br>
  <img src="https://imgur.com/4jmAe1E.png" width="200px" />  <img src="https://imgur.com/uXh8iDE.png" width="200px" /><img src="https://imgur.com/ob1FFJl.png" width="200px" />
 
- 
 - [United Nations Refuge | Deep Analysis](https://www.kaggle.com/code/ahmadwaleed1/united-nations-refuge-deep-analysis) A detailed analysis focusing on United Nations refugee data, offering insights into global refugee trends, origins, and the impact on host countries.<br>
  <img src="https://imgur.com/gRd7JYp.png" width="200px" />  <img src="https://imgur.com/QWRk97Y.png" width="200px" /><img src="https://imgur.com/cs6y7My.png" width="200px" />
 - [Nuclear Plant Incidents | Deep Analysis](https://github.com/awaleedpk/Kaggle_Notebooks/blob/main/Nuclear%20Plant%20Incidents/Nuclear_Plant_Incidents___Deep_Analysis.ipynb) An in-depth investigation into incidents at nuclear plants worldwide, analyzing their causes, consequences, and the measures taken to prevent future occurrences.<br>
